@@ -1,0 +1,22 @@
+{
+    "games": [
+    {
+        "title": "Uncharted Golden Abyss",
+        "company": "Naughty Dogs",
+        "description": "",
+        "id": 1
+    },
+    {
+        "title": "Mario & Luigi Dream Team",
+        "company": "Nintendo",
+        "description": "",
+        "id": 2
+    },
+    {
+        "title": "Tearaway",
+        "company": "Molecule Studio",
+        "description": "",
+        "id": 3
+    }
+    ]
+}

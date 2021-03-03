@@ -1,6 +1,6 @@
 function Create() {
     return (
-        <h2>Create new Book!</h2>
+        <h2>Add a new Game!</h2>
     );
 }
 
