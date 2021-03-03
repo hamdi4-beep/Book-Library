@@ -11,7 +11,7 @@ function Home() {
                 return (
                     <div className="blog-preview" key={blog.id}>
                         <h2>{blog.title}</h2>
-                        <p>Written By {blog.author}</p>
+                        <p>Written By {blog.company}</p>
                     </div>
                 );
             })}
