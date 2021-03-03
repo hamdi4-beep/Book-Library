@@ -9,7 +9,6 @@ function App() {
             <Router>
                 <div className="content">
                     <Navbar></Navbar>
-                    <p>Here's the list!</p>
                     <Switch>
                         <Route exact path="/">
                             <Home></Home>
